@@ -23,4 +23,8 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizarlo en el nave
 
 Estos son los criterios de aceptacion que yo he usado para hacer la prueba técnica:
 
-- dsada
+- Si Edita un articulo y deja vacio alguno de los campos, saldra una notificacion de advertencia (campos obligatorios).
+- No se puede agregar un nuevo articulo (ya que no se podria según lo planteado, y asociarlo a un grupo).
+- Cada vez que se Edita o se Elimina un articulo, saldra un mensaje abajo a la izquierda como notificación.
+- Antes de eliminar un articulo, sale una ventana dialogo para confirmar la eliminación o cancelarlo.
+- Se le añadio la funcionalidad de "Eliminar", aunque en la prueba se indico que solo se realizarian las siguientes acciones: ·Listar, ·Filtrar, ·Editar (mostrar y guardar cambios)
