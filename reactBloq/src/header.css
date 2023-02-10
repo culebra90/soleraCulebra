@@ -1,0 +1,14 @@
+ 
+.botonD{
+    margin-right: 2px important;
+    display: flex !important;
+    color: #919191 !important;
+    text-transform: none !important;
+}
+
+.botonA{
+    margin-right: 2px !important;
+    display: flex !important;
+    color: #4a4a4a !important;
+    text-transform: none !important;
+}
